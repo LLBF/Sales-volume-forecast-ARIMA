@@ -1,5 +1,6 @@
 # Sales-volume-forecast-ARIMA
-Sales volume of a supermarket and its forecast, data of 20 months. 
+Machine learning model using Python 3.6
+Topic: Sales volume of a supermarket and its forecast, data of 20 months. 
 
 
 EDA file is the first notebook, it prepares the data for the model.

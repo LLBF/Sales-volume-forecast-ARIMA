@@ -1,5 +1,7 @@
 # Sales-volume-forecast-ARIMA
 Machine learning model using Python 3.6
+
+
 Topic: Sales volume of a supermarket and its forecast, data of 20 months. 
 
 

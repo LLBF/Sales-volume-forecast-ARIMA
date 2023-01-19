@@ -20,5 +20,5 @@ NOTES:
 
 * Data was downloaded from https://datamarket.es/#productos-de-supermercados-dataset
 
-* It is required to change in the jupyter notebooks the directory of the file csv (EDA notebook)
+* It is required to change the source of the jupyter notebook, the directory of the file csv ("url" on EDA_MercadonaTimeSeries notebook)
 

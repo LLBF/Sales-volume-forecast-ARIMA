@@ -1,6 +1,6 @@
 # Sales-volume-forecast-ARIMA
 Machine learning model using Python 3.6
-
+Libraries needed: pandas, numpy, seaborn, matplotlib, plotly, datetime
 
 Topic: Sales volume of a supermarket and its forecast, data of 20 months. 
 
@@ -21,3 +21,4 @@ NOTES:
 * Data was downloaded from https://datamarket.es/#productos-de-supermercados-dataset
 
 * It is required to change in the jupyter notebooks the directory of the file csv (EDA notebook)
+

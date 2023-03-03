@@ -1,6 +1,6 @@
 # Sales-volume-forecast-ARIMA
 Machine learning model using Python 3.6
-Libraries needed: pandas, numpy, seaborn, matplotlib, plotly, datetime
+Libraries needed: pandas, numpy, seaborn, matplotlib, plotly, datetime (src/data/requirements.txt)
 
 Topic: Sales volume of a supermarket and its forecast, data of 20 months. 
 
